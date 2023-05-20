@@ -45,7 +45,7 @@ input[type=password]{
 input[type=button]{
     margin-top: 16px;
     padding: 10px 8px;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .sub_main a{
