@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+.mainbody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: auto;
+    border: 2px solid black;
+    margin-top: 22%;
+    margin-left: 40%;
+    background-color: antiquewhite;
+}
+
+.firm{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
